@@ -1,0 +1,28 @@
+_repo: Lectures-on-Ten-British-Mathematicians-of-the-Nineteenth-Century_9942
+creator:
+  author:
+    agent_name: Macfarlane, Alexander
+    birthdate: 1851
+    deathdate: 1913
+    gutenberg_agent_id: '4911'
+    url: http://www.gutenberg.org/2009/agents/4911
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_MacFarlane
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mathematicians -- Great Britain -- Biography'
+- !lcc 'QA'
+- !lcsh 'Mathematics -- Great Britain -- History -- 19th century'
+tableOfContents: George Peacock -- Augustus De Morgan -- Sir William Rowan Hamilton
+  -- George Boole -- Arthur Cayley -- William Kingdon Clifford -- Henry John Stephen
+  Smith -- James Joseph Sylvester -- Thomas Penyngton Kirkman -- Isaac Todhunter.
+title: Lectures on Ten British Mathematicians of the Nineteenth Century
+url: http://www.gutenberg.org/ebooks/9942
