@@ -1,4 +1,8 @@
 _repo: Lectures-on-Ten-British-Mathematicians-of-the-Nineteenth-Century_9942
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Macfarlane, Alexander
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4911
     wikipedia: http://en.wikipedia.org/wiki/Alexander_MacFarlane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9942#Lectures-on-Ten-British-Mathematicians-of-the-Nineteenth-Century
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
